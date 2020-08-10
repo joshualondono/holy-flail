@@ -15,11 +15,14 @@
 }
 
 #middle {
+    display: flex;
   height: 60vh;
   width: 100vw;
 }
 
 #main {
+    display: flex;
+  justify-content: center;
   width: 80%;
 }
 
